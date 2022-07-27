@@ -1,0 +1,68 @@
+[
+  {
+	   "courseId": 1,
+	   "title": "assignment 1",
+	   "points": 100,
+	   "due": "2022-06-03"
+   },
+   {
+     "courseId": 1,
+     "title": "assignment 2",
+     "points": 100,
+     "due": "2022-06-10"
+   },
+   {
+     "courseId": 1,
+     "title": "assignment 3",
+     "points": 120,
+     "due": "2022-06-17"
+   },
+   {
+     "courseId": 3,
+     "title": "assignment 1",
+     "points": 70,
+     "due": "2022-06-03"
+   },
+   {
+     "courseId": 3,
+     "title": "assignment 2",
+     "points": 80,
+     "due": "2022-06-10"
+    },
+    {
+     "courseId": 3,
+     "title": "assignment 3",
+     "points": 100,
+     "due": "2022-06-20"
+    },
+    {
+     "courseId": 3,
+     "title": "assignment 4",
+     "points": 100,
+     "due": "2022-07-01"
+    },
+    {
+     "courseId": 4,
+     "title": "lab 1",
+     "points": 50,
+     "due": "2022-07-01"
+    },
+    {
+     "courseId": 4,
+     "title": "lab 2",
+     "points": 100,
+     "due": "2022-07-17"
+    },
+    {
+     "courseId": 4,
+     "title": "lab 3",
+     "points": 100,
+     "due": "2022-08-01"
+    },
+    {
+     "courseId": 4,
+     "title": "lab 4",
+     "points": 100,
+     "due": "2022-08-12"
+    }
+]

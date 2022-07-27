@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "GEO",
+    "number": "101",
+    "title": "Intro to Geology",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "CS",
+    "number": "101",
+    "title": "Intro to Computer Science",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "MTH",
+    "number": "355",
+    "title": "Discrete Mathematics",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "CS",
+    "number": "370",
+    "title": "Intro to Computer Networks",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "MTH",
+    "number": "340",
+    "title": "Linear Algebra",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "BS",
+    "number": "101",
+    "title": "Intro to Business",
+    "term": "sp22",
+    "instructor": 17
+  },
+  {
+    "subject": "BIO",
+    "number": "101",
+    "title": "Intro to Biology",
+    "term": "sp22",
+    "instructor": 17
+  }
+
+]

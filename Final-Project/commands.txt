@@ -1,0 +1,2 @@
+Redis Container: docker run -d --name redis-server -p 6379:6379 redis:latest
+MySQL Container: docker run -d --name mysql-server -p "3306:3306" -e "MYSQL_RANDOM_ROOT_PASSWORD=yes" -e "MYSQL_USER=tarpaulin" -e "MYSQL_PASSWORD=hunter2" -e "MYSQL_DATABASE=tarpaulin" mysql
