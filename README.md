@@ -4,6 +4,11 @@ This class was focused on developing a restful API for a yelp-like application. 
 ## Assignment 4
 
 ### Features
+Some of the features that are included in the yelp like applicaiton are:
+  * Pagination for getting the list of all businesses
+  * Authentication for certain actions such as editing information and deleting entries
+  * Offline work using rabbitmq pipelines to create thumbnails for the images that are created through the API
+  * 
 
 ### How to run
 
