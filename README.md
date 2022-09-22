@@ -9,13 +9,16 @@ The two assignments that are included is assignment 4 and the final project. Ass
 Some of the features that are included in the yelp like applicaiton are:
   * Pagination for getting the list of all businesses
   * Authentication for certain actions such as editing information and deleting entries
-  * Offline work using rabbitmq pipelines to create thumbnails for the images that are created through the API
-  * 
-
-### How to run
+  * Offline work using rabbitmq pipelines to create thumbnails for the images that are uploaded through the API
 
 ## Final Project
 
 ### Features
 
-### How to run
+## How to run
+### Required software
+Before running the code, there are a few important installations that are needed.
+ - `node.js` and `npm` must be installed information can be found (here)[https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#osx-or-linux-node-version-managers]
+ - `Docker` must also be installed in order to set up the database that are used. Instructions for installation can be found (here)[https://docs.docker.com/get-docker/]
+
+### Setting up the API
