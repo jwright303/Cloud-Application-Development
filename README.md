@@ -22,4 +22,10 @@ Before running the code, there are a few important installations that are needed
  - `Docker` must also be installed in order to set up the database that are used. Instructions for installation can be found [here](https://docs.docker.com/get-docker/)
 
 ### Setting up the API
-Once npm and node js are installed you can download some other packages that are needed by the programs. This can be done by running `npm install` which will install some of the packages enumerated in 
+Once npm and node js are installed you can download some other packages that are needed by the programs. This can be done by running `npm install` which will install some of the packages enumerated in `package.json`. 
+
+Connecting the API to the database requires that a few of the enviornment variables are set such as the host, user, and password. A list of these can be found in `commands.txt`. 
+
+Docker containers for the client and the server must be created as well with certain parameters to set envionrment variables and expose a port. The commands for these can also be found in `commands.txt`
+
+Once these containers are created the last thing we have to do is start our API which can be done by running `npm start` at the base directory of each project
