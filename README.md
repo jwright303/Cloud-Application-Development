@@ -18,7 +18,7 @@ Some of the features that are included in the yelp like applicaiton are:
 ## How to run
 ### Required software
 Before running the code, there are a few important installations that are needed.
- - `node.js` and `npm` must be installed information can be found (here)[https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#osx-or-linux-node-version-managers]
- - `Docker` must also be installed in order to set up the database that are used. Instructions for installation can be found (here)[https://docs.docker.com/get-docker/]
+ - `node.js` and `npm` must be installed information can be found [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#osx-or-linux-node-version-managers)
+ - `Docker` must also be installed in order to set up the database that are used. Instructions for installation can be found [here](https://docs.docker.com/get-docker/)
 
 ### Setting up the API
