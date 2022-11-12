@@ -8,12 +8,20 @@ The two assignments that are included is assignment 4 and the final project. Ass
 ### Features
 Some of the features that are included in the yelp like applicaiton are:
   * Pagination for getting the list of all businesses
+  * MongoDB database for storing the information
   * Authentication for certain actions such as editing information and deleting entries
   * Offline work using rabbitmq pipelines to create thumbnails for the images that are uploaded through the API
+  * API, Database, and RabbitMQ all running in docker containers
 
 ## Final Project
 
 ### Features
+Some of the features that are included in the yelp like applicaiton are:
+  * Pagination for getting the list of all businesses
+  * SQL database for storing the information
+  * Authentication for certain actions such as editing information and deleting entries
+  * Token bucket based rate limiting for users depending on their credntials
+  * API and Database running in docker containers
 
 ## How to run
 ### Required software
